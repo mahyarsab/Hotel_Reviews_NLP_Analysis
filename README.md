@@ -45,3 +45,4 @@ We will employ a Decision Tree classifier on the dataset by fitting a decision t
 We will re-run the logistic regression or decision tree on the dataset by performing a 5-fold cross-validation to optimize the hyperparameters of the model. We will examine the confusion matrix of the best model on the test set. Finally, we will create one new feature and explain how it can improve accuracy. We will run the model again and evaluate whether the accuracy score of the best model has improved on the test set after adding the new feature.
 
 Overall, this project will provide a comprehensive understanding of different machine learning algorithms and techniques and how they can be applied to a real-world dataset to solve a classification problem.
+
