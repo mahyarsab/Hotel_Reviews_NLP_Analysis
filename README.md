@@ -1,5 +1,8 @@
 # Hotel_Reviews_NLP_Analysis
 
+- [First Jupyter Notebook ( EDA & Data Wrangling & Subsampling ) ](https://github.com/mahyarsab/Hotel_Reviews_NLP_Analysis/blob/main/Mahyar_Sabouniaghdam_NLP_with_Hotel_Review_Part1.ipynb)
+- [Second Jupyter Notebook ( Modeling &  Logisitic Regression & KNN & Decision Tree & PCA & Model Optimization & Cross Validation & Confusion Matrix & Feature Engineering & GridSearch ) ](https://github.com/mahyarsab/Hotel_Reviews_NLP_Analysis/blob/main/Mahyar_Sabouniaghdam_NLP_with_Hotel_Review_Part2.ipynb)
+
 <img src="https://www.reviewtrackers.com/wp-content/uploads/Hotel-Reviews.jpg">
 
 In the first part, I will begin with some Exploratory Data Analysis (EDA), and then move into data augmentation, modelling, and iteration over model improvements.
